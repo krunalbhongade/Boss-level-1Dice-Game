@@ -15,3 +15,4 @@ Game based on Intermediate js &amp; Dom
 ![Screenshot (208)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/6b98fe86-e981-49ee-b795-81d8eca1a1c9)
 ![Screenshot (211)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/443896f1-b265-46af-9f95-7902588f9f92)
 ![Screenshot (209)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/af1747a3-3ab6-4f0d-90e1-40f82f5c3411)
+![Screenshot (210)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/06cd626d-adb5-483f-b345-19131e059198)
