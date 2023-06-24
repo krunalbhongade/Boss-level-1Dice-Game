@@ -12,3 +12,5 @@ Game based on Intermediate js &amp; Dom
 # Change both image elements
 # Change title to display a Winner
 ![WhatsApp Image 2023-06-23 at 11 18 09 PM (2)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/f8a183c7-a83d-4487-b47d-c4b075917551)
+![Screenshot (208)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/6b98fe86-e981-49ee-b795-81d8eca1a1c9)
+![Screenshot (211)](https://github.com/krunalbhongade/Boss-level-1Dice-Game/assets/126875304/443896f1-b265-46af-9f95-7902588f9f92)
